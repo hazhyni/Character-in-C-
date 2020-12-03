@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Tugas_1_Karakter_Hazhiyah_Yumni
 {
     class Program
